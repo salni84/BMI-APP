@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/preferences"
+        android:title="User Preferences" />
+    <item
+        android:id="@+id/ratings"
+        android:title="@string/ratings" />
+    <item
+        android:id="@+id/dbresults"
+        android:title="dbresults" />
+    <item
+        android:id="@+id/input"
+        android:title="@string/value_input" />
+    <item
+        android:id="@+id/exit"
+        android:title="Exit" />
+</menu>

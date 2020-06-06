@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="start_bmi_calculation">Start BMI-Calculation</string>
+    <string name="my_weight_in_kg">My Weight in kg:</string>
+    <string name="bmi_calculator_entry">BMI Calculator Entry</string>
+    <string name="compute_my_bmi">COMPUTE MY BMI</string>
+    <string name="my_height_in_cm">My Height in cm:</string>
+    <string name="clear_input">Clear input</string>
+    <string name="weiter">weiter</string>
+    <string name="start_bmi_app">Start BMI-APP</string>
+    <string name="welcome_to_bmi_calculator">Welcome to BMI-Calculator</string>
+    <string name="home">Home</string>
+    <string name="value_input">Value input</string>
+    <string name="dein_gewicht">Your weight:</string>
+    <string name="deine_gr_sse">Your size:</string>
+    <string name="dein_bmi">Your BMI:</string>
+    <string name="ratings">Ratings</string>
+    <string name="bmi_rating_details">BMI Rating Details</string>
+    <string name="bmi_ratings">BMI Ratings</string>
+    <string name="resultBMI">\"Your current BMI is \"</string>
+</resources>
